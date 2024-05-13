@@ -1,0 +1,20 @@
+myEnv
+translations
+DB Browser for SQLCipher.exe
+DB Browser for SQLite.exe
+db.SQLite3
+libcrypto-1_1.dll
+libssl-1_1.dll
+# manage.py
+Qt5Concurrent.dll
+Qt5Core.dll
+Qt5Gui.dll
+Qt5Network.dll
+Qt5PrintSupport.dll
+Qt5Widgets.dll
+Qt5Xml.dll
+sqlcipher.dll
+SQLite3.dll
+bearer
+licenses
+extensions
